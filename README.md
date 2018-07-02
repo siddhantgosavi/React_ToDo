@@ -1,2 +1,2 @@
 # React_ToDo
-todo application using react js
+test application using react js
